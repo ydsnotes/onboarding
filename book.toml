@@ -1,0 +1,7 @@
+[book]
+authors = ["Alexander Zasorin", "Who else wants?"]
+language = "ru"
+multilingual = false
+src = "src"
+title = "Onboarding course"
+description = "yds onboarding course notes"
