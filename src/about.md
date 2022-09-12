@@ -2,4 +2,4 @@
 
 Here is about part
 
-$\int\limits_0^{+\infty}e^{-x}dx=1$
+$$\int\limits_0^{+\infty}e^{-x}dx=1$$
