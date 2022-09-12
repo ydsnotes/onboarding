@@ -1,4 +1,4 @@
-# Для Mac Os
+# Для Mac OS X
 
 Пользователям Mac Os X нужно установить и освоить следующие инструменты.
 
@@ -24,13 +24,43 @@
 
 ## Установка
 ### homebrew
-1. 
+[Install instruction](https://docs.brew.sh/Installation)
 
-### git
-1. 
+1. В терминале:
+
+	```bash
+	/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install.sh)
+	```
 
 ### docker for macosx
-1. 
+1. В терминале:
+    
+    ```bash 
+    brew install docker --cask\
+    ```
+
+2. Запуск из терминала пока не сработает
+    
+    ```bash
+	docker --version
+	# command not found: docker
+	```
+	
+3. Среди программ запустить Docker, разрешить доступ.
+
+4. Теперь в терминале работает запуск:
+    
+    ```bash
+	docker --version
+	```
+
+### git
+1. В терминале:
+
+	```bash
+	brew install docker --cask
+	```
+
 
 ### vscode
 1. 
