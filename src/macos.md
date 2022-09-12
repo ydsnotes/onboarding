@@ -65,3 +65,13 @@
 ### vscode
 1. 
 
+
+
+### rust (optional)
+С официального сайта [https://www.rust-lang.org/learn/get-started]()
+
+1. В терминале:
+
+    ```bash
+curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
+```

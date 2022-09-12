@@ -6,6 +6,6 @@ src = "src"
 title = "Onboarding course"
 description = "yds onboarding course notes"
 
-[output.katex]
+#[output.katex]
 
-[preprocessor.katex]
+#[preprocessor.katex]
