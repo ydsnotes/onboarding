@@ -1,3 +1,3 @@
 # Summary
 
-- [About] ./about.md
+- [About](./about.md)
